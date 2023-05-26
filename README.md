@@ -10,15 +10,13 @@
 
 <h1 align="center">hello! 👋</h1>
 
---- 
-
 ### 🔍 at a glimpse:
 
 I am an aspiring backend software engineer and Go enjoyer.
 
 I also am an avid snowboarder, sci-fi nerd, keyboard spendthrift, and baseball analytics enthusiast. 
 
----
+--
 
 ### 🛠️ language and tools:
 
