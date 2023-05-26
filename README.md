@@ -4,12 +4,6 @@
   <img src="https://media.giphy.com/media/IE03KxjIgPiKSrZ8sN/giphy.gif" width="200"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/e-berman/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <div id="greeting" align="center">Hi there 👋</div>
 
 <!--
