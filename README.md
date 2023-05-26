@@ -16,7 +16,7 @@ I am an aspiring backend software engineer and Go enjoyer.
 
 I also am an avid snowboarder, sci-fi nerd, keyboard spendthrift, and baseball analytics enthusiast. 
 
---
+-
 
 ### 🛠️ language and tools:
 
