@@ -1,14 +1,5 @@
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/IE03KxjIgPiKSrZ8sN/giphy.gif" width="200"/>
-</div>
-
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=e-berman&style=flat-square&color=blue" alt=""/>
-</div>
-
-<h1 align="center">hello! 👋</h1>
+<h1>hello! 👋</h1>
 
 ### 🔍 at a glimpse:
 
