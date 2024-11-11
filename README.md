@@ -1,6 +1,4 @@
 
-swe at DealerTire
-
 avid snowboarder, sci-fi reader, baseball analytics enthusiast. 
 
 #
